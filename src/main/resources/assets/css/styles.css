@@ -1,0 +1,9 @@
+.text-area {
+  -fx-background-color: #00002B;
+  -fx-control-inner-background:#000000;
+}
+.split-pane > .split-pane-divider {
+    -fx-background-insets: 0;
+    -fx-padding: 0 0 0 0;
+    -fx-background-color: #00002B;
+}
